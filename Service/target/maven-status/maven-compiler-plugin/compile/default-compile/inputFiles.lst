@@ -1,0 +1,9 @@
+/home/newttena/Java_Bootcamp.Day08-1/src/ex02/Service/src/main/java/edu/school21/service/config/ApplicationConfig.java
+/home/newttena/Java_Bootcamp.Day08-1/src/ex02/Service/src/main/java/edu/school21/service/repositories/UsersRepositoryJdbcImpl.java
+/home/newttena/Java_Bootcamp.Day08-1/src/ex02/Service/src/main/java/edu/school21/service/services/UsersService.java
+/home/newttena/Java_Bootcamp.Day08-1/src/ex02/Service/src/main/java/edu/school21/service/services/UsersServiceImpl.java
+/home/newttena/Java_Bootcamp.Day08-1/src/ex02/Service/src/main/java/edu/school21/service/models/User.java
+/home/newttena/Java_Bootcamp.Day08-1/src/ex02/Service/src/main/java/edu/school21/service/repositories/UsersRepositoryJdbcTemplateImpl.java
+/home/newttena/Java_Bootcamp.Day08-1/src/ex02/Service/src/main/java/edu/school21/service/repositories/CrudRepository.java
+/home/newttena/Java_Bootcamp.Day08-1/src/ex02/Service/src/main/java/edu/school21/service/application/Program.java
+/home/newttena/Java_Bootcamp.Day08-1/src/ex02/Service/src/main/java/edu/school21/service/repositories/UsersRepository.java
